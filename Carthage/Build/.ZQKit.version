@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.0.1",
+  "iOS" : [
+    {
+      "name" : "ZQUIKit",
+      "hash" : "e566477ae9ca5e30031844bae9b817faa33d204e6df251952f2a178c49f8958b"
+    }
+  ]
+}

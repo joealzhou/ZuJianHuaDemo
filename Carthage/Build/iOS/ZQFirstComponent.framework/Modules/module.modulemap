@@ -1,0 +1,11 @@
+framework module ZQFirstComponent {
+  umbrella header "ZQFirstComponent.h"
+
+  export *
+  module * { export * }
+}
+
+module ZQFirstComponent.Swift {
+    header "ZQFirstComponent-Swift.h"
+    requires objc
+}

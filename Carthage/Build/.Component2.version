@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.0.1",
+  "iOS" : [
+    {
+      "name" : "ZQSecondComponent",
+      "hash" : "6228af4c5620b4b5d18f050aa0cc82f921845c78d660b46920487cc1a4d36406"
+    }
+  ]
+}

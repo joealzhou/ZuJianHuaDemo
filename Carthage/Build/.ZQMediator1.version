@@ -1,0 +1,9 @@
+{
+  "commitish" : "0.0.1",
+  "iOS" : [
+    {
+      "name" : "ZQMediator",
+      "hash" : "c74417a6837d48b60a841aea6fb8e9904ffad51c223a90c8169fdafda8638f74"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+framework module ZQUIKit {
+  umbrella header "ZQUIKit.h"
+
+  export *
+  module * { export * }
+}
+
+module ZQUIKit.Swift {
+    header "ZQUIKit-Swift.h"
+    requires objc
+}
